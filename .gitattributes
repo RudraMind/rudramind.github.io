@@ -1,0 +1,4 @@
+* text=auto
+handshake text eol=lf
+keepalive text eol=lf
+install text eol=lf
